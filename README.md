@@ -13,7 +13,7 @@ The working collection contains **33 distinct datasets reported as rerun by the 
 | NHP | 8 | PXD001842, PXD008825, PXD011398, PXD013597, PXD070242, PXD023520, PXD062952, PXD066108 |
 | Rat | 19 | PXD001839, PXD003375, PXD004364, PXD006692, PXD012677, PXD013543, PXD015928, PXD016793, PXD016958, PXD070315, PXD045910, PXD020184, PXD022466, PXD050758, PXD059025, PXD026871, PXD034443, PXD059562, PXD068084 |
 | Dog | 4 | PXD003094, PXD033420, PXD052932, PXD070290 |
-| Minipig | 2 | PXD025482, PXD070292 |
+| Minipig | 4 | PXD025482, PXD069137, PXD070292, PXD074506 |
 
 See the [dataset inventory](data/datasets.tsv) for accession links, local curation review notes, and SDRF availability in this repository. Repeated accessions are counted once. Studies containing perturbations require baseline eligibility assessment at sample level.
 
