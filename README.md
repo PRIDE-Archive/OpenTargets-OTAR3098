@@ -61,7 +61,6 @@ See [reanalysis and reporting requirements](guidelines/Reanalysis.md). Repositor
 - [Dataset inventory](data/datasets.tsv): collection, rerun status, local review notes, and repository SDRF availability.
 - [Guidelines](guidelines): selection, curation, and reanalysis requirements.
 - [SDRF annotations](sdrf): files currently committed to this repository.
-- [Original guidelines path](guildelines/Dataset_Selection.md): compatibility link.
 
 ## Data Availability
 
